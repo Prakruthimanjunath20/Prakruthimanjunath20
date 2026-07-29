@@ -43,6 +43,7 @@ Apache Airflow
 Azure Data Factory
 
 Featured Projects:
+
 Azure Data Engineering Pipeline: End-to-end ETL pipeline using Azure Data Factory, Azure Databricks, Delta Lake and ADLS Gen2.
 
 Databricks Lakehouse Pipeline: Implemented Bronze → Silver → Gold Medallion Architecture with PySpark and Delta Lake.
