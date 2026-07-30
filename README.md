@@ -1,70 +1,87 @@
-Hi, I'm Prakruthi Manjunath
+<h1 align="center">Hi 👋, I'm Prakruthi Manjunath</h1>
 
+<h3 align="center">
 Data Engineer | Azure | Databricks | PySpark | SQL | Python
+</h3>
 
-United Kingdom
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+Scalable+Data+Pipelines;Azure+%7C+Databricks+%7C+PySpark;Open+to+Data+Engineering+Opportunities" />
+</p>
 
-MSc Data Science - University of Surrey
+## 🙋 About Me
 
-Data Engineer 
+- 🎓 MSc Data Science – University of Surrey
+- 💼 Data Engineer with 3+ years of experience
+- 🏛️ Currently Data Administrator at the University of Surrey
+- ☁️ Passionate about Azure, Databricks, PySpark & Cloud Data Engineering
+- 🌱 Currently preparing for Databricks Data Engineer Associate
+- 🚀 Open to Data Engineering opportunities in the UK
 
-About Me
+### 🚀 Featured Projects
 
-I'm a Data Engineer passionate about building scalable data platforms, automating ETL pipelines, and turning raw data into meaningful insights.
+- 🔹 [Azure Data Engineering Pipeline](https://github.com/Prakruthimanjunath20/repository-name)
+- 🔹 [Databricks Lakehouse Pipeline](https://github.com/Prakruthimanjunath20/repository-name)
+- 🔹 [Cyber Security Analytics Platform](https://github.com/Prakruthimanjunath20/repository-name)
+- 🔹 [Farmers Local Market](https://github.com/Prakruthimanjunath20/repository-name)
 
-Over the past 3+ years, I've worked across Azure, Databricks, Snowflake, SQL, Python and PySpark, designing reliable cloud-based data solutions while continuously learning modern data engineering practices.
+## 📊 GitHub Stats
 
-Alongside my engineering experience, I currently work at the University of Surrey, managing enterprise-scale academic data and supporting institutional data operations.
+<p align="center">
 
-I'm currently preparing for the Databricks Certified Data Engineer Associate certification while building projects in Azure and Databricks.
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Prakruthimanjunath20&show_icons=true&theme=tokyonight"/>
 
-Currently Working On
-Azure Data Engineering
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakruthimanjunath20&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Prakruthimanjunath20&theme=tokyonight"/>
+
+</p>
+
+Programming Languages
+
+Python SQL
+
+Cloud
+
+Azure AWS
+
+Data Engineering
+
 Databricks
-Delta Lake
 PySpark
-Data Pipelines
-Spark Optimization
-CI/CD
-Terraform
-
-Tech Stack:
-Azure
-Databricks
-PySpark
-Python
-SQL
 Snowflake
-Power BI
+Airflow
+Azure Data Factory
+
+Tools
+
 Git
 GitHub
 Docker
-Apache Airflow
-Azure Data Factory
+VS Code
 
-Featured Projects:
+## 📈 Contribution Graph
 
-Azure Data Engineering Pipeline: End-to-end ETL pipeline using Azure Data Factory, Azure Databricks, Delta Lake and ADLS Gen2.
+[![Prakruthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prakruthimanjunath20&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Databricks Lakehouse Pipeline: Implemented Bronze → Silver → Gold Medallion Architecture with PySpark and Delta Lake.
+## 📫 Connect With Me
 
-Cyber Security Analytics Platform: Cloud data engineering solution for processing and analysing security logs using Azure Databricks and Power BI.
+<p align="left">
 
-Farmers Local Market: Full-stack application developed using Flask, AWS and SQL.
+<a href="https://www.linkedin.com/in/prakruthi21">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Certifications:
-Azure Fundamentals (AZ-900)
-Microsoft Azure Data Fundamentals (DP-900)
-Databricks Certified Data Engineer Associate (In Progress)
+<a href="mailto:prakruthimanjunath20@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-Let's Connect
+</p>
 
-LinkedIn - linkedin.com/in/prakruthi21
-
-Email - prakruthimanjunath20@gmail.com
-
-Portfolio - 
-
+![](https://komarev.com/ghpvc/?username=Prakruthimanjunath20&style=for-the-badge)
 
 ## 🛠 Tech Stack
 
