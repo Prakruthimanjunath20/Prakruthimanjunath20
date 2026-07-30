@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prakruthi Manjunath</h1>
+<h1 align="center">Hi , I'm Prakruthi Manjunath</h1>
 
 <h3 align="center">
 Data Engineer | Azure | Databricks | PySpark | SQL | Python
