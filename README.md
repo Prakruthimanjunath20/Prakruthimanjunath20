@@ -8,23 +8,23 @@ Data Engineer | Azure | Databricks | PySpark | SQL | Python
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+Scalable+Data+Pipelines;Azure+%7C+Databricks+%7C+PySpark;Open+to+Data+Engineering+Opportunities" />
 </p>
 
-## 🙋 About Me
+## About Me
 
-- 🎓 MSc Data Science – University of Surrey
-- 💼 Data Engineer with 3+ years of experience
-- 🏛️ Currently Data Administrator at the University of Surrey
-- ☁️ Passionate about Azure, Databricks, PySpark & Cloud Data Engineering
-- 🌱 Currently preparing for Databricks Data Engineer Associate
-- 🚀 Open to Data Engineering opportunities in the UK
+-  MSc Data Science - University of Surrey
+-  Data Engineer with 3+ years of experience
+-  Currently Data Administrator at the University of Surrey
+-  Passionate about Azure, Databricks, PySpark & Cloud Data Engineering
+-  Currently preparing for Databricks Data Engineer Associate
+-  Open to Data Engineering opportunities in the UK
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 - 🔹 [Azure Data Engineering Pipeline](https://github.com/Prakruthimanjunath20/repository-name)
 - 🔹 [Databricks Lakehouse Pipeline](https://github.com/Prakruthimanjunath20/repository-name)
 - 🔹 [Cyber Security Analytics Platform](https://github.com/Prakruthimanjunath20/repository-name)
 - 🔹 [Farmers Local Market](https://github.com/Prakruthimanjunath20/repository-name)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -63,11 +63,11 @@ GitHub
 Docker
 VS Code
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 [![Prakruthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prakruthimanjunath20&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
@@ -83,7 +83,7 @@ VS Code
 
 ![](https://komarev.com/ghpvc/?username=Prakruthimanjunath20&style=for-the-badge)
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,azure,git,github,docker,vscode,aws,mysql,postgres" />
