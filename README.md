@@ -24,21 +24,13 @@ Data Engineer | Azure | Databricks | PySpark | SQL | Python
 - 🔹 [Cyber Security Analytics Platform](https://github.com/Prakruthimanjunath20/repository-name)
 - 🔹 [Farmers Local Market](https://github.com/Prakruthimanjunath20/repository-name)
 
-##  GitHub Stats
+##  Certifications
 
-<p align="center">
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Prakruthimanjunath20&show_icons=true&theme=tokyonight"/>
+![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakruthimanjunath20&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Prakruthimanjunath20&theme=tokyonight"/>
-
-</p>
+![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate%20(In%20Progress)-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
 
 ##  Contribution Graph
 
