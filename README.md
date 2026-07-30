@@ -40,29 +40,6 @@ Data Engineer | Azure | Databricks | PySpark | SQL | Python
 
 </p>
 
-Programming Languages
-
-Python SQL
-
-Cloud
-
-Azure AWS
-
-Data Engineering
-
-Databricks
-PySpark
-Snowflake
-Airflow
-Azure Data Factory
-
-Tools
-
-Git
-GitHub
-Docker
-VS Code
-
 ##  Contribution Graph
 
 [![Prakruthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prakruthimanjunath20&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
