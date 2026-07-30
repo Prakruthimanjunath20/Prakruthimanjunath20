@@ -64,3 +64,10 @@ LinkedIn - linkedin.com/in/prakruthi21
 Email - prakruthimanjunath20@gmail.com
 
 Portfolio - 
+
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,azure,git,github,docker,vscode,aws,linux,mysql,postgres" />
+</p>
