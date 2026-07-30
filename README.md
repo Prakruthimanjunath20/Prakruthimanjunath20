@@ -19,10 +19,10 @@ Data Engineer | Azure | Databricks | PySpark | SQL | Python
 
 ###  Featured Projects
 
-- 🔹 [Azure Data Engineering Pipeline](https://github.com/Prakruthimanjunath20/repository-name)
-- 🔹 [Databricks Lakehouse Pipeline](https://github.com/Prakruthimanjunath20/repository-name)
-- 🔹 [Cyber Security Analytics Platform](https://github.com/Prakruthimanjunath20/repository-name)
-- 🔹 [Farmers Local Market](https://github.com/Prakruthimanjunath20/repository-name)
+-  [Azure Data Engineering Pipeline](https://github.com/Prakruthimanjunath20/repository-name)
+-  [Databricks Lakehouse Pipeline](https://github.com/Prakruthimanjunath20/repository-name)
+-  [Cyber Security Analytics Platform](https://github.com/Prakruthimanjunath20/repository-name)
+-  [Farmers Local Market](https://github.com/Prakruthimanjunath20/repository-name)
 
 ##  Certifications
 
