@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Prakruthi Manjunath</h1>
+<h1 align="center">Hi, I'm Prakruthi Manjunath</h1>
 
 <h3 align="center">
 Data Engineer | Azure | Databricks | PySpark | SQL | Python
@@ -17,12 +17,37 @@ Data Engineer | Azure | Databricks | PySpark | SQL | Python
 -  Currently preparing for Databricks Data Engineer Associate
 -  Open to Data Engineering opportunities in the UK
 
-###  Featured Projects
+##  Featured Projects
 
--  [Azure Data Engineering Pipeline](https://github.com/Prakruthimanjunath20/repository-name)
--  [Databricks Lakehouse Pipeline](https://github.com/Prakruthimanjunath20/repository-name)
--  [Cyber Security Analytics Platform](https://github.com/Prakruthimanjunath20/repository-name)
--  [Farmers Local Market](https://github.com/Prakruthimanjunath20/repository-name)
+### [AI News Insights](https://github.com/Prakruthimanjunath20/ai-news-insights)
+`Python` `FastAPI` `scikit-learn` `Pydantic` `Claude API` `GitHub Actions`
+
+Turns a stream of financial headlines into deduplicated stories, with the companies,
+sector, regulator and sentiment of each story and the UK stocks most likely to be affected.
+
+- Groups the same event reported by different outlets using character n-gram TF-IDF,
+  a 72-hour time window and union-find
+  ([commit](https://github.com/Prakruthimanjunath20/ai-news-insights/commit/0ac9890375121b69e5c240ac8e591153759ca367))
+- Enriches stories offline with a finance sentiment lexicon, or with Claude through
+  structured tool use, falling back to the rules if an API call fails
+  ([commit](https://github.com/Prakruthimanjunath20/ai-news-insights/commit/34b400c6b14918f253a9dcab789d9b4b184a675d))
+- Async RSS ingestion, entity-aware search and watch-list alerts behind a FastAPI
+  service, web page and CLI
+  ([commit](https://github.com/Prakruthimanjunath20/ai-news-insights/commit/3c90029512669a8c7f6cf06a3c14616f03c6a481))
+- 28 tests, with CI on Python 3.11–3.13
+
+### [dev-productivity-mcp](https://github.com/Prakruthimanjunath20/dev-productivity-mcp)
+`Python` `MCP` `httpx` `Pydantic` `GitHub REST API`
+
+An MCP server that gives AI assistants such as Claude read-only tools for git
+repositories: repo overviews, standup reports, changelogs, TODO scans, branch health
+and pull request summaries.
+
+- Seven typed tools and two prompts built on the MCP Python SDK 2.x
+  ([commit](https://github.com/Prakruthimanjunath20/dev-productivity-mcp/commit/1845f5e20e01310b4502beefc814daa93832d54f))
+- Folder allow-list and a git runner that refuses option-like input
+  ([commit](https://github.com/Prakruthimanjunath20/dev-productivity-mcp/commit/a58c4d0cfa573c07a7aed38f985d4ce2de5d951f))
+- 23 tests, including end-to-end calls through a real MCP client
 
 ##  Certifications
 
@@ -55,7 +80,7 @@ Data Engineer | Azure | Databricks | PySpark | SQL | Python
 ##  Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,azure,git,github,docker,vscode,aws,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,azure,git,github,githubactions,docker,vscode,aws,mysql,postgres" />
 </p>
 
 
