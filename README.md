@@ -49,6 +49,60 @@ and pull request summaries.
   ([commit](https://github.com/Prakruthimanjunath20/dev-productivity-mcp/commit/a58c4d0cfa573c07a7aed38f985d4ce2de5d951f))
 - 23 tests, including end-to-end calls through a real MCP client
 
+### [repo-rag-assistant](https://github.com/Prakruthimanjunath20/repo-rag-assistant)
+`Python` `RAG` `BM25` `Claude API` `FastAPI`
+
+Ask questions about any GitHub repository and get answers grounded in its code, with
+every claim cited to a file and line range.
+
+- Chunks Python by function, class and method using `ast`, and retrieves with BM25
+  over a code-aware tokenizer
+  ([commit](https://github.com/Prakruthimanjunath20/repo-rag-assistant/commit/fb21074366857f1da51ece15ca9de826e8c12183))
+- Claude answers only from numbered sources; every citation is checked against what
+  was retrieved, and uncited answers are flagged
+  ([commit](https://github.com/Prakruthimanjunath20/repo-rag-assistant/commit/5b3c81a81dae9b12e9f8dc2dc47d69c6acbfb0a7))
+- Retrieval eval set run in CI: recall@5 = 1.00, MRR = 0.79
+  ([commit](https://github.com/Prakruthimanjunath20/repo-rag-assistant/commit/7f2d324b843a5566e6efb4069d716f301c3d0523))
+
+### [guarded-agent](https://github.com/Prakruthimanjunath20/guarded-agent)
+`Python` `AI agents` `Claude tool use` `Pydantic`
+
+A tool-using Claude agent with guardrails: typed tools, human approval for side
+effects, step and call budgets, prompt-injection flags, and replayable JSONL traces.
+
+- Tool schemas generated from type hints, with argument validation errors returned
+  to the model ([commit](https://github.com/Prakruthimanjunath20/guarded-agent/commit/e54b83591d5d2fe35edcafe784b9186a6a770ff3))
+- Policy layer for allow-lists, approvals, budgets and injection detection
+  ([commit](https://github.com/Prakruthimanjunath20/guarded-agent/commit/417ad38330adcd12910a072e497af874784f112d))
+- Offline demo where a planted injection is flagged and the email it asks for is denied
+
+### [llm-eval-harness](https://github.com/Prakruthimanjunath20/llm-eval-harness)
+`Python` `LLM evaluation` `LLM-as-judge` `GitHub Actions`
+
+Regression tests for LLM apps: YAML suites, rule and similarity checks, Claude as a
+judge, repeated runs to measure flakiness, and a baseline gate that fails CI on
+regressions.
+
+- Claude judge with structured verdicts through a forced tool call
+  ([commit](https://github.com/Prakruthimanjunath20/llm-eval-harness/commit/171204c914b040058f60a02fb9847a7cc9dc0fd1))
+- Parallel, repeated runs with per-case pass rates
+  ([commit](https://github.com/Prakruthimanjunath20/llm-eval-harness/commit/27e3b63ce2904e8d6cd2e2a43b0cda3320f1dc63))
+- CI gate and Markdown summary on the GitHub Actions run page
+  ([commit](https://github.com/Prakruthimanjunath20/llm-eval-harness/commit/8ca2d53d84531ea93373b33c54db528cbd8bdea9))
+
+### [abbreviation-detector](https://github.com/Prakruthimanjunath20/abbreviation-detector)
+`Python` `NLP` `CRF` `sequence labelling` `FastAPI`
+
+Finds abbreviations and their long forms in scientific text and links them, trained
+on the PLOD dataset (about 160k sentences).
+
+- CRF tagger stacked with the Schwartz-Hearst rule algorithm: **0.766 span F1** on
+  held-out papers, against 0.486 for the rules alone
+  ([commit](https://github.com/Prakruthimanjunath20/abbreviation-detector/commit/dfc13b5481a77979b89777481dc1c69f143751ec))
+- Tokenizer fix that raised the achievable ceiling from 0.89 to 0.96 F1, and
+  regularisation that halved the model size while improving accuracy
+  ([commit](https://github.com/Prakruthimanjunath20/abbreviation-detector/commit/36fd1e90ccd97e62996a093f7a57287c8c3a94d5))
+
 ##  Team Projects
 
 ### [Farmers Local Market](https://github.com/shashanksuresh18/farmers_local_market)
