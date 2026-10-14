@@ -49,6 +49,19 @@ and pull request summaries.
   ([commit](https://github.com/Prakruthimanjunath20/dev-productivity-mcp/commit/a58c4d0cfa573c07a7aed38f985d4ce2de5d951f))
 - 23 tests, including end-to-end calls through a real MCP client
 
+##  Team Projects
+
+### [Farmers Local Market](https://github.com/shashanksuresh18/farmers_local_market)
+`Python` `Flask` `Flask-SQLAlchemy` `Flask-Login` `Docker`
+
+MSc group project at the University of Surrey (2024): a web marketplace connecting
+local farmers' market vendors with customers, built by a team of six.
+
+- **My contribution:** the vendor and product features of the Flask back end: vendor
+  home and profile editing, adding, editing and listing products, product detail and
+  review pages, and the market and product listings
+  ([commit](https://github.com/shashanksuresh18/farmers_local_market/commit/bf12f8930262c107e5395157663ad6a447f34535))
+
 ##  Certifications
 
 ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
